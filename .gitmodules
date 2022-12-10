@@ -1,0 +1,9 @@
+[submodule "6SubClassingUIView"]
+	path = 6SubClassingUIView
+	url = git@github.com:c4arl0s/6SubClassingUIView.git
+[submodule "7ViewControllers"]
+	path = 7ViewControllers
+	url = git@github.com:c4arl0s/7ViewControllers.git
+[submodule "8TheAccelerometer"]
+	path = 8TheAccelerometer
+	url = git@github.com:c4arl0s/8TheAccelerometer.git
