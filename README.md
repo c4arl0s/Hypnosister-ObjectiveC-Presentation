@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s#ios-apps-using-objective-cuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [Hypnosister App - Objective-C](https://github.com/c4arl0s/6SubClassingUIView#1-creating-a-custom-view)
 
 Hypnosister is an application that fills the screen with concentric circles, draw text and enable scrolling and zooming, it also uses the accelerometer to move this concentric circles. It changes color of the concentric circles using a shake motion detection.
